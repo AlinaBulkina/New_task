@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+    //how to break fast sort
     int n;
     cin >> n;
     vector<int> a;
