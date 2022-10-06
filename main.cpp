@@ -17,9 +17,9 @@ int main() {
     for (int i = 0; i < n; ++i)
         cout << a[i] << " ";
 
-    //new feature
     cout << endl;
 
+    //new feature
     cout << "another direction" << endl;
     for (int i = n - 1; i >= 0; --i) {
       cout << a[i] << " ";
