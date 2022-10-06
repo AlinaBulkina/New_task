@@ -1,4 +1,18 @@
-/private/var/folders/v_/7xr9c0y53j1b5q3vtx3k29x00000gn/T/AppTranslocation/7CE0336C-E6F4-4376-AF8B-F83CA7FFA492/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/alinabulkina/CLionProjects/Homework
+/private/var/folders/v_/7xr9c0y53j1b5q3vtx3k29x00000gn/T/AppTranslocation/D1C2D970-A6C1-436F-A1CA-2F74729A47F6/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/alinabulkina/CLionProjects/New_task
+-- The C compiler identification is AppleClang 12.0.0.12000032
+-- The CXX compiler identification is AppleClang 12.0.0.12000032
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++
+-- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/alinabulkina/CLionProjects/Homework/cmake-build-debug
+-- Build files have been written to: /Users/alinabulkina/CLionProjects/New_task/cmake-build-debug
